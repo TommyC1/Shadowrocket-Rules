@@ -29,11 +29,7 @@
 https://tommyc1.github.io/Shadowrocket-Rules/TommyC1.conf
 ```
 
-### 方法二：扫码导入
-
-> 在 Shadowrocket 中扫描下方二维码即可自动导入配置
-
-### 方法三：手动下载
+### 方法二：手动下载
 
 1. 下载 [TommyC1.conf](./TommyC1.conf)
 2. 通过 AirDrop 或其他方式传到手机
